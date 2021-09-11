@@ -1,2 +1,3 @@
+<img src="https://img.shields.io/badge/invbeans-%E2%98%86%C2%B0%E2%96%AA%EF%B8%8E%60%D0%BE%20*-blueviolet">
 main file is "launcher.cpp"
 not sure if it helps to understand...
